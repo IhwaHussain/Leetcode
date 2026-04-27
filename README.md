@@ -1,5 +1,3 @@
-Here’s a professional, recruiter-friendly `README.md` for your LeetCode C++ solutions repository. It features a clean title, a summary badge, a detailed problems table (with accurate difficulty & topic assignments[1]), and clear descriptions.
-
 # LeetCode C++ Solutions
 
 A curated collection of C++ solutions to popular LeetCode problems.  
